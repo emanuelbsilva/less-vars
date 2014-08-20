@@ -1,0 +1,28 @@
+{
+  "name": "less-vars",
+  "version": "0.0.0",
+  "description": "Extract LESS variables from an input file to an object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "keywords": [
+    "LESS",
+    "extract",
+    "variables",
+    "vars",
+    "var",
+    "CSS",
+    "javascript",
+    "nodejs",
+    "tu"
+  ],
+  "author": "Emanuel Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "less": "^1.7.4",
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4",
+    "lodash": "^2.4.1"
+  }
+}
